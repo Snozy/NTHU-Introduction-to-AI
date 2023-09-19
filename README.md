@@ -14,12 +14,13 @@ White a report to explain which tool and procedure you are using to generate the
 **Final_Project: 80/100**<br/>
     Using ChatGPT, text-to-image, and NST tools to develop a picture book.<br/>
 
-    You should develop a story (or poem), convert it into illustrations, and assemble them to form a picture book.<br/>
+    You should develop a story (or poem), convert it into illustrations, <br/>
+    and assemble them to form a picture book.<br/>
 **Surver_Report: 75/100**<br/>
     Write a survey report using ChatGPT (or a similar tool). <br/>
 
-    Write a report to discuss the following items in depth: <br/>
-    Your experiences, <br/>
-    The pros and cons? <br/>
-    How to verify it? <br/>
-    How to use it to assist your study/work? <br/>
+    Write a report to discuss the following items in depth: 
+    Your experiences, 
+    The pros and cons? 
+    How to verify it? 
+    How to use it to assist your study/work? 
